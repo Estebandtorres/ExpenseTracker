@@ -1,6 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import HomeScreen from './src/screens/HomeScreen';
 import NewExpenseModal from './src/screens/NewExpenseModal';
+import ExpensesScreen from './src/screens/ExpensesScreen';
 import { View, StyleSheet } from 'react-native';
 
 export default function App() {
